@@ -1,0 +1,178 @@
+*{
+ background-color: #F3D7CA;
+ text-decoration: none;
+}
+
+img{
+  max-width: 30vw;
+}
+
+.mk1{
+ display: flex;
+ font-family: 'Allerta Stencil', sans-serif;
+ color: #F3D7CA;
+ align-items: center;
+ width: 300px;
+ height: 490px;
+ padding: 25px;
+ border: 1px;
+ font-size: 100px;
+ justify-content: center;
+ background-image: url("open.jpg");
+}
+
+
+a{ text-decoration: none;
+}
+
+.mk{
+ display: flex;
+ font-family: 'Allerta Stencil', sans-serif;
+ color: black;
+ justify-content: center;
+ border: 0.5px solid #F9F8EB;
+ background-color:#F9F8EB;
+ align-items: center;
+ height: 1vh;
+ font-size: 25px;
+ margin-left: 38%;
+}
+
+.bar{
+ display: flex;
+ border: 1px solid #F9F8EB;
+ background-color:#F9F8EB;
+ justify-content: space-around;
+}
+
+.signup{
+ display: flex;
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+ color: black;
+ justify-content: center;
+ border: 0.5px solid #F3D7CA;
+ background-color:#F9F8EB;
+ align-items: center;
+ font-size: 12px;
+ padding: 5px 12px;
+ height:3vh;
+ width: 5vw;
+ border-radius:25pc;
+ align-self:center;
+ margin-left: 25%;
+
+}
+h2{
+ font-family: 'Inconsolata', monospace;
+ display: flex;
+ color: black;
+ background-color:#F3D7CA;
+ align-items:flex-start;
+ font-size: 20px;
+ height:3vh;
+ font-family: 'Dosis', sans-serif;
+ font-weight: normal;
+}
+.mksignup{
+ display: flex;
+ font-family: 'Allerta Stencil', sans-serif;
+ color: black;
+ justify-content: center;
+ border: 20px solid #F9F8EB;
+ background-color:#F9F8EB;
+ align-items: center;
+ height: 1vh;
+ font-size: 25px;
+ margin-left: 0%;
+}
+
+h2signup{
+ font-family: 'Allerta Stencil', sans-serif;
+ display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0px 0px 20px 0px;
+    color: #5C5C5C;
+    font-size:x-large;
+}
+
+img{
+  width: 33vw;
+}
+img:hover{
+  transform: scale(1.2)
+}
+
+article{
+  display: flex;
+  justify-content: space-around;
+  width: 95vw;
+}
+
+
+}
+.mksignup{
+ display: flex;
+ font-family: 'Allerta Stencil', sans-serif;
+ color: black;
+ justify-content: center;
+ border: 20px solid #F9F8EB;
+ background-color:#F9F8EB;
+ align-items: center;
+ height: 1vh;
+ font-size: 25px;
+ margin-left: 0%;
+}
+
+.opaque {
+ background-color: #ffffff;
+ opacity: 0.5;
+}
+
+.opaque p {
+ color: #000000;
+ display: inline;
+ background-color: #ffffff;
+}
+
+.formflex{
+ display: flex;
+ border: 1px ;
+ flex-direction: column;
+ background-image: url("../../Downloads/img1.jpg");
+ background-size: contain;
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+ align-items: center;
+ align-content: center;
+ width: 100vw;
+ height: 75vh;
+ margin: 2.5vw 30vw 25vw 30vw;
+ justify-content: space-evenly;
+ object-fit: scale-down;
+ }
+
+
+
+form{
+ font-size: 75%;
+ font-family: 'Noto Sans HK', sans-serif;
+}
+
+.mk2{
+ display: flex;
+ font-family: 'Allerta Stencil', sans-serif;
+ color: black;
+ justify-content: center;
+ border: 20px solid #F9F8EB;
+ background-color:#F9F8EB;
+ align-items: center;
+ height: 1vh;
+ font-size: 25px;
+ margin-left: -52%;
+}
+
+.hello{
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Allerta Stencil', sans-serif;
+}
