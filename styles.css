@@ -139,7 +139,7 @@ article{
  display: flex;
  border: 1px ;
  flex-direction: column;
- background-image: url("../../Downloads/img1.jpg");
+ background-image: url("./assets/img1.jpg");
  background-size: contain;
  font-family: 'Yanone Kaffeesatz', sans-serif;
  align-items: center;
